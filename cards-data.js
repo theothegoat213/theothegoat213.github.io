@@ -410,7 +410,7 @@ export default [
   { href: "./html/badegg.io/index.html", imgSrc: "badegg.io.jpg", name: "badegg.io" , "page": 2, 'id': 612, tags: ['']},
   { href: "./swf/cactus mccoy/index.html", imgSrc: "cactus mccoy.jpg", name: "cactus mccoy" , "page": 2, 'id': 611, tags: ['']},
   { href: "./swf/cactus mccoy 2/index.html", imgSrc: "cactus mccoy 2.jpg", name: "cactus mccoy 2" , "page": 2, 'id': 610, tags: ['']},
-  { href: "./html/terretorial.io/index.html", imgSrc: "terretorial.io.jpeg", name: "terretorial.io" , "page": 2, 'id': 609, tags: ['']},
+  { href: "./html/terretorial.io/index.html", imgSrc: "terretorial.io.jpeg", name: "territorial.io" , "page": 2, 'id': 609, tags: ['']},
   { href: "./html/just passing 2/index.html", imgSrc: "just passing 2.jpg", name: "just passing 2" , "page": 2, 'id': 608, tags: ['']},
   { href: "./swf/jacksmith/index.html", imgSrc: "jacksmith.jpg", name: "jacksmith" , "page": 2, 'id': 607, tags: ['']},
   { href: "./html/Pre Civilization Bronze Age/index.html", imgSrc: "Pre Civilization Bronze Age.jpg", name: "Pre Civilization Bronze Age" , "page": 2, 'id': 606, tags: ['']},
